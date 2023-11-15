@@ -4,7 +4,7 @@
 
 
 ## Ejemplo en vivo
-[https://github.com/JuanPaniza/Portfolio-Juan-Paniza](https://main--zippy-chaja-125ee6.netlify.app/)
+[[https://github.com/JuanPaniza/Portfolio-Juan-Paniza](https://main--zippy-chaja-125ee6.netlify.app/)](https://tangerine-brigadeiros-0cad4e.netlify.app/)
 
 ## Tecnologías 🛠!
 
